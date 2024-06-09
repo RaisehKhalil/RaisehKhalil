@@ -1,3 +1,8 @@
+### 👥 Professional Experience:
+Current: Freightos: Since July 2019
+
+Current studies: Udacity's Google nanodegree program: Data Analyst
+
 # Product specialist
 ### 🔍 About Me:
 
@@ -27,8 +32,6 @@ Influence on Product Roadmap: My active collection and communication of customer
 
 Proactive Product Quality Management: I proactively identified and addressed early product anomalies and failures, significantly enhancing the team's ability to manage trends and improve product quality and reliability across the lifecycle.
 
-### 👥 Professional Experience:
-#### Current: Freightos: Since July 2019
 
 ### 📚 Education:
 
